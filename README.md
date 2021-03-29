@@ -2,7 +2,7 @@
 
 The contents of this repository represent project 3 of the Udacity Deep Reinforcement Learning course. In this project, we are solving the Unity Tennis environment which consists of controlling the movements of two tennis players. By performing actions on the tennis players, we can learn an optimal control policy.
 
-In order to perform this training, we use the Deep Deterministic Policy Gradient (DDPG) algorithm. We solve this algorithm in a multi-agent case, where to goal is, using twi agents, maintain a reward of +0.5 for at least 100 consecutive episodes.
+In order to perform this training, we use the Deep Deterministic Policy Gradient (DDPG) algorithm. We solve this algorithm in a multi-agent case, where to goal is, using two agents, maintain a reward of +0.5 for at least 100 consecutive episodes.
 
 The code can be run by opening the notebook Tennis.ipynb and running all cells. This will train and run the modified DDPG algorithm.
  
