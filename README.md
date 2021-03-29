@@ -8,7 +8,7 @@ The code can be run by opening the notebook Tennis.ipynb and running all cells. 
  
 ## Tennis Environment
 
-The Tennis environment consists of two tennis agents. An agent receives a reward of +0.1 fot hitting the ball over the net and -0.01 for failing to return in some way (e.g. drop the ball, or let it go out of bounds). The observation space per agent is size 8 and describes the position and velocity of the ball and racket. The action space is of a vector of of two numbers in the range [-1,1] and represents jumping and movement toward or away from the net. 
+The Tennis environment consists of two tennis agents. An agent receives a reward of +0.1 fot hitting the ball over the net and -0.01 for failing to return in some way (e.g. drop the ball, or let it go out of bounds). The observation space per agent is size 8 and describes the position and velocity of the ball and racket. The action space is of a vector of of two numbers in the range [-1,1] and represents jumping and movement of the player toward or away from the net. 
 
 ### Getting the required Files
 
