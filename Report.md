@@ -1,6 +1,6 @@
 # Report
 
-THe implementation here is similar to the MADDPG algorithm, which is a multi-agent extension for DDPG [1]. The implentation here start with the project 2 submission (which itself is a modified form of the Udacity DDPG-bipedal notebook extended for multiple agents [2,3]) and was modified to run better on a different environment. The big change here was having a separate set of neural network for each agent.
+The implementation here is similar to the MADDPG algorithm, which is a multi-agent extension for DDPG [1]. The implentation here start with the project 2 submission (which itself is a modified form of the Udacity DDPG-bipedal notebook extended for multiple agents [2,3]) and was modified to run better on a different environment. The big change here was having a separate set of neural network for each agent.
 
 
 ## Learning algorithm
