@@ -49,8 +49,8 @@ To set up your python environment to run the code in this repository, follow the
 5. Clone the repository (if you haven't already!), and navigate to the python/ folder. Then, install several dependencies.
 <br /><br />
 <code> 
-    git clone https://github.com/udacity/deep-reinforcement-learning.git  
-    cd deep-reinforcement-learning/python  
+    git clone https://github.com/udacity/deep-reinforcement-learning.git  <br />
+    cd deep-reinforcement-learning/python  <br />
     pip install .  
 </code> 
 <br /><br />
