@@ -41,7 +41,7 @@ Critic(\
 
 ## Results
 
-The environment was solved in 1400 timesteps
+The environment was solved in 1400 episodes.
 ![result](plot.png "Result plot")
 
 
